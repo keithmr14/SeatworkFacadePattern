@@ -18,4 +18,4 @@ HomeInterface: The facade class that coordinates interactions between the client
 
 HomeApp: The client class that uses the HomeInterface to access and utilize home services seamlessly.
 
-<img src="FacadePatternUML.png" width=100% alt="UML">
+![UML](FacadePatternUML.png)
